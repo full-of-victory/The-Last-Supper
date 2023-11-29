@@ -856,8 +856,9 @@ main > .content1 > .row1 > div {
   width: 500px;
   padding: 20px;
   padding-top: 10px;
-  height: 201.292px;
+  height:  246.29200000000003px;;
   background-clip: padding-box;
+  background-color: white;
   box-shadow: 0 2px 14px rgba(38, 60, 85, 0.16);
   display: flex;
   flex-direction: column;
@@ -901,7 +902,7 @@ button.taggle > img {
 }
 #link > h4 {
 margin: 10px;
-width: 139px;
+width: 176px;
 text-align: right;
   }
 
@@ -983,7 +984,7 @@ text-align: right;
 
 /* start in card */
 .imeges {
-  background-image: url(image/react-label.png);
+  background-image: url('https://v3dboy.ir/previews/html/frest/frest/assets/img/icons/brands/react-label.png');
   width: 50px;
   height: 50px;
   border-radius: 50px;
@@ -1139,7 +1140,7 @@ text-align: right;
 
 /* start stiv */
 .imeges1 {
-  background-image: url(image/vue-label.png);
+  background-image: url('https://v3dboy.ir/previews/html/frest/frest/assets/img/icons/brands/react-label.png');
   width: 50px;
   height: 50px;
   border-radius: 50px;
@@ -1252,7 +1253,7 @@ text-align: right;
 /* <!-- cris ronaldo --> */
 
 .imeges2 {
-  background-image: url(image/xd-label.png);
+  background-image: url('https://v3dboy.ir/previews/html/frest/frest/assets/img/icons/brands/react-label.png');
   width: 50px;
   height: 50px;
   border-radius: 50px;
@@ -1306,7 +1307,7 @@ text-align: right;
 
 /* stiv rajers */
 .imeges3 {
-  background-image: url(image/support-label.png);
+  background-image: url('https://v3dboy.ir/previews/html/frest/frest/assets/img/icons/brands/react-label.png');
   width: 50px;
   height: 50px;
   border-radius: 50px;
@@ -1369,7 +1370,7 @@ text-align: right;
 /* bil gats */
 
 .imeges4 {
-  background-image: url(image/social-label.png);
+  background-image: url('https://v3dboy.ir/previews/html/frest/frest/assets/img/icons/brands/react-label.png');
   width: 50px;
   height: 50px;
   border-radius: 50px;
@@ -1432,7 +1433,7 @@ text-align: right;
 
 /* stiv jubs */
 .imeges5 {
-  background-image: url(image/event-label.png);
+  background-image: url('https://v3dboy.ir/previews/html/frest/frest/assets/img/icons/brands/react-label.png');
   width: 50px;
   height: 50px;
   border-radius: 50px;
@@ -1484,7 +1485,7 @@ text-align: right;
 }
 /* stiv jubs */
 .imeges6 {
-  background-image: url(image/figma-label.png);
+  background-image: url('https://v3dboy.ir/previews/html/frest/frest/assets/img/icons/brands/react-label.png');
   width: 50px;
   height: 50px;
   border-radius: 50px;
@@ -1536,7 +1537,7 @@ text-align: right;
 }
 /* stiv jubs */
 .imeges7 {
-  background-image: url(image/html-label.png);
+  background-image: url('https://v3dboy.ir/previews/html/frest/frest/assets/img/icons/brands/react-label.png');
   width: 50px;
   height: 50px;
   border-radius: 50px;
